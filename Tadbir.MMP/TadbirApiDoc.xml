@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tadbir.MMP</name>
+    </assembly>
+    <members>
+        <member name="M:Tadbir.MMP.Controllers.ToDoController.Post(Tadbir.MMP.Models.Dto.ItemDto)">
+            <summary>
+            پوشش های درخواستی به ترتیب 1و2و3 با عناوین دندان پزشکی-جراحی و بستری می باشد
+            </summary>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
